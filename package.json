@@ -1,0 +1,20 @@
+{
+  "name": "partner-ai",
+  "version": "1.0.0",
+  "description": "An AI partner project featuring various characters like friends, partners, and teachers.",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve -s ."
+  },
+  "dependencies": {
+    "serve": "^14.2.1"
+  },
+  "keywords": [
+    "ai",
+    "partner",
+    "chat",
+    "chatbot"
+  ],
+  "author": "Eamin Islam",
+  "license": "MIT"
+}

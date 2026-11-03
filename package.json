@@ -4,7 +4,7 @@
   "description": "An AI partner project featuring various characters like friends, partners, and teachers.",
   "main": "index.html",
   "scripts": {
-    "start": "npx serve -s ."
+    "start": "npx serve -s . -p $PORT"
   },
   "dependencies": {
     "serve": "^14.2.1"

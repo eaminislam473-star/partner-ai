@@ -6,7 +6,7 @@
 // =====================================================================
 
 let currentLang = 'bn';
-const GEMINI_API_KEY ="AQ.Ab8RN6I20Q5YfFA_Kz77PJORtWANUyaoQNTBreOohosgQ8l9Gg";
+const GEMINI_API_KEY ="process.env.GEMINI_API_KEY";
 
 // ১. ভাষা এবং ইন্টারফেসের সমস্ত টেক্সট ডেটা (বাংলা ও ইংরেজি)
 const langData = {
